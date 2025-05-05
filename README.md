@@ -17,4 +17,3 @@ This notebook presents a machine learning solution to predict passenger survival
 
 ---
 
-Part of the **Neuronexus Internship Task Series**
